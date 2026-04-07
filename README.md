@@ -32,7 +32,6 @@
 모델 답: get_movie_credits(550)
 
 
-
 # AI Agent 두 번째 과제
 
 ## 설명
